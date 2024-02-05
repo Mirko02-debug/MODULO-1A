@@ -5,6 +5,7 @@
 }
 /* CONFIGURAZIONE BODY */
 body {
+    margin: auto;
     position: relative;
     width: 1500px;
     height: 1500px;
